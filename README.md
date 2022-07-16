@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tempesyad05!
 - 👀 I’m interested in Mindustry
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Mindustry
 - 📫 How to reach me? Reach me on tempesyad05@gmail.com
 
